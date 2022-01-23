@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zack Evans</h1>
 <h3 align="center">A passionate developer for UI/UX Design and background development.</h3>
 
-- 👨‍💻 All of my projects are available at [zevans.co.uk](zevans.co.uk)
-
 - 📫 How to reach me **me@zevans.co.uk**
 
 <h3 align="left">Connect with me:</h3>
